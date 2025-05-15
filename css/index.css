@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {  
+    text-align: center;
+    padding-top: 8%;
+        }   
+.p {
+    text-align: center;
+    
+}
+.input {
+    text-align: center;
+}
+.text{
+    padding: 0px 100px;
+   
+}
+.button {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.div {
+    background-color: gainsboro;
+    width: 1250px;
+    padding: 20px;
+    margin:5px 100px;
+}
+.box-1 {
+    background-color: aquamarine;
+    width: 32%;
+    height: 90px;
+    margin-left: 100px;
+    float: left;
+}
+.box-2 {
+    background-color: aquamarine;
+    width: 18%;
+    height: 90px;
+    float: left;
+    margin:0px 3px ;
+}
+.box-3 {
+    background-color: aquamarine;
+    width: 36.2%;
+    height: 90px;
+    float: left;
+}
+p button {
+    margin-left: 15px;
+}
+p{
+    margin: 2px;
+    text-align: center;
+}
+.clear {
+    clear: both;
+    margin: 8%;
+}
